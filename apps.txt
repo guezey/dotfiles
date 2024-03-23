@@ -1,0 +1,14 @@
+aria2
+docker
+gh
+glow
+goto
+httpie
+lsd
+neovim
+nnn
+vim
+speedtest
+tmux
+xrdp
+
