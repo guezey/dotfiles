@@ -29,4 +29,3 @@ alias gitb='git branch'
 alias gitco='git checkout'
 alias gitpub='git push --set-upstream origin $(git branch --show-current)'
 alias gitd='git diff'
-
