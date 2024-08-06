@@ -18,6 +18,7 @@ echo -e "${DONE} .bash_aliases file created/updated"
 # Create a .gitconfig file
 cp .gitconfig ~/.gitconfig
 echo -e "${DONE} .gitconfig file created/updated"
+echo -e "${INFO} Don't forget to login with [gh auth login]"
 
 # Check if the .bashrc file exists
 if [ -f ~/.bashrc ]; then

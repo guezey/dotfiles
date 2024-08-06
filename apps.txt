@@ -1,4 +1,3 @@
-aria2
 docker
 gh
 glow
@@ -10,5 +9,4 @@ nnn
 vim
 speedtest
 tmux
-xrdp
 

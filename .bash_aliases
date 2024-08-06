@@ -20,16 +20,6 @@ alias nv='nvim'
 alias doc='sudo docker'
 alias dc='sudo docker compose'
 
-# git
-alias gits='git status'
-alias gitc='git commit -m'
-alias gitp='git push'
-alias gitl='git log --pretty=oneline'
-alias gitb='git branch'
-alias gitco='git checkout'
-alias gitpub='git push --set-upstream origin $(git branch --show-current)'
-alias gitd='git diff'
-
 # python
 alias venv='source .venv/bin/activate'
 alias newvenv='python3 -m venv .venv'
